@@ -22,8 +22,8 @@ Sigue estos pasos para ejecutar el proyecto de manera local:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-cd nombre-del-repo
+git clone [https://github.com/juannvarelaa/Lab-ventas-FastApi.git](https://github.com/juannvarelaa/Lab-ventas-FastApi.git)
+cd Lab-ventas-FastApi
 ### 2. Creacion del entorno virtual
   python -m venv .venv
 .venv\Scripts\activate
